@@ -11,6 +11,7 @@ set database name in **application.properties**
 start project
 
 -------------
+U can see Swagger documentation. After project starts, go to http://localhost:8080/swagger-ui/index.html
 
 | Method  | URL  | Description |
 | :------------ |:---------------:| -----:|
